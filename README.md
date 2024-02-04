@@ -4,11 +4,11 @@ Hello there !
 I'm Dona, and this is my personal GitHub portfolio, where I will showcase my coding journey, projects, and contributions to the open-source community. 
 Whether you're a fellow developer, a potencial employer, or just someone interested in my future work, I am glad you're here!  
 
-About Me
+About Me...
 
-My Projects
+My Projects...
 
-Contributions
+Contributions...
 
 Get in touch
 If you'd like to collaborate on a project or just want to say hi, I'd love to hear from you! You can reach me on [LinkedIn](www.linkedin.com/in/aldona-rozalska-7a70632a4)
