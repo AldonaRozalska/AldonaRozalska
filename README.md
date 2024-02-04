@@ -11,7 +11,7 @@ My Projects...
 Contributions...
 
 Get in touch
-If you'd like to collaborate on a project or just want to say hi, I'd love to hear from you! You can reach me on [LinkedIn](www.linkedin.com/in/aldona-rozalska-7a70632a4)
+If you'd like to collaborate on a project or just want to say hi, I'd love to hear from you! You can reach me on [LinkedIn](https://www.linkedin.com/in/aldona-rozalska-7a70632a4)
 
 Thank you for visiting my GitHub portfolio. Don't forget to star your favorite repositories and follow me for updates on my latest endeavors!
 
